@@ -26,4 +26,4 @@ The README.md for this week's lab can be found [here](/CSE110-github-pages/READM
 
 ## Contact Info:
 - Email: mbeaudin@ucsd.edu
-- Phone: 916-525-4328
+- Phone: 916-600-5277
